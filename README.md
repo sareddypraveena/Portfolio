@@ -26,8 +26,6 @@ A responsive and stylish personal portfolio website built using **HTML** and **C
 ## 🖼️ Screenshots
 
 ![Home Page](1.png)
-*Home section of the portfolio*
-
 ![Projects Section](2.png)
 *Sample project showcase*
 ![Projects Section](3.png)
