@@ -25,13 +25,13 @@ A responsive and stylish personal portfolio website built using **HTML** and **C
 
 ## 🖼️ Screenshots
 
-![Home Page](1(2).png)
-![Projects Section](2(2).png)
+![Home Page](1.png)
+![Projects Section](2.png)
 ![Projects Section](3(3).png)
 ![Projects Section](4.png)
 ![Projects Section](5.png)
 ![Projects Section](6.png)
 ![Projects Section](7.png)
-![Projects Section](8(2).png)
+![Projects Section](8.png)
 ---
 
